@@ -5,11 +5,6 @@ EEG-based robotic arm control has offered a key solution to the problem of high 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Certainly! A professional README file for a GitHub repository containing the project discussed in the research paper could look something like this:
-
----
-
-# EEG-Based Neuroprosthesis Classification Project
 
 ## Overview
 
@@ -72,13 +67,7 @@ To use the code and resources provided in this repository, follow the instructio
 
 Contributions to this project are welcome! Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
 
-## License
 
-This project is licensed under the [INSERT LICENSE NAME] License - see the LICENSE.md file for details.
-
----
-
-Ensure to replace placeholders such as "[INSERT LICENSE NAME]" with the appropriate license name used in your project. Additionally, link relevant sections to corresponding files or directories within your repository. This README provides a comprehensive overview of the project structure, methodologies, and outcomes, enabling users and contributors to understand and engage with the research work effectively.
 ## :warning: Framework used
 
 - [Python](https://www.python.org/)
