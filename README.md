@@ -34,6 +34,8 @@ The methodology encompasses three primary phases:
 1. **Data Collection and Preparation:** EEG data from 15 healthy subjects performing various upper limb movements and rest trials were collected and curated for analysis.
 2. **Data Pre-processing:** Techniques including bandpass filtering, wavelet decomposition, and epoch extraction were employed to prepare the EEG data for model training.
 3. **Model Development:** A modified DeepConvNet architecture was utilized to predict motor functions from EEG signals, after rigorous comparative analysis with other classification models like EEGNet and traditional DeepConvNet.
+![diagram](https://github.com/stuti2403/Motor-Imagery-Classification-from-time-domain-low-frequency-EEG-signals/assets/72308729/6f82fdeb-e795-485a-8dad-568d4b07fa9c)
+
 
 ## Data Set Description
 
@@ -42,10 +44,12 @@ The dataset used comprises EEG recordings from 15 subjects performing six distin
 ## Data Pre-processing
 
 The preprocessing pipeline involved extensive steps, such as bandpass filtering, event extraction, epoch creation, and data concatenation, to standardize and prepare the EEG data for model training.
+![eeg preprocessing](https://github.com/stuti2403/Motor-Imagery-Classification-from-time-domain-low-frequency-EEG-signals/assets/72308729/c8aa0697-425b-4a14-8de8-20b91feadb4a)
 
 ## Model Creation
 
 The modified DeepConvNet model, optimized through changes in batch normalization and kernel size, was designed to leverage the hierarchical features of EEG signals for accurate motor function prediction.
+![arch_res_paper](https://github.com/stuti2403/Motor-Imagery-Classification-from-time-domain-low-frequency-EEG-signals/assets/72308729/b36ec08b-eea6-4edb-a5c4-d480e09c5873)
 
 ## Model Training
 
