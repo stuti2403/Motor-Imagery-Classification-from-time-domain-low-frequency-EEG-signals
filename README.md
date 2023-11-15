@@ -11,7 +11,6 @@ EEG-based robotic arm control has offered a key solution to the problem of high 
 - [Python](https://www.python.org/)
 - [MNE](https://mne.tools/stable/index.html)
 - [EEGNet](https://eegnet.org/index.html)
-- Epoch flex 32 EEG cap
 
 
 
