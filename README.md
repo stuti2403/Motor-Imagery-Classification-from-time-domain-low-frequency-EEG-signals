@@ -55,7 +55,8 @@ Testing accuracy results demonstrated the superiority of the modified DeepConvNe
 
 The project achieved significant advancements in EEG signal classification, outperforming existing techniques by approximately 27%. The proposed methodology shows promise in real-time EEG signal classification, offering potential applications in cutting-edge assistive technologies for individuals with transhumeral amputation.
 Comparison of accuracy values obtained from DeepConvNet, EEGNet and modified DeepConvNet models:
-![image](https://github.com/stuti2403/Motor-Imagery-Classification-from-time-domain-low-frequency-EEG-signals/assets/72308729/bfb04506-0c93-4def-a64a-9605d4806d89)
+![image](https://github.com/stuti2403/Motor-Imagery-Classification-from-time-domain-low-frequency-EEG-signals/assets/72308729/19205bed-36d5-40ee-b0d2-461c1908c917)
+
 
 
 ## Usage
