@@ -12,7 +12,6 @@ This repository hosts the code and resources for a research project focusing on 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Data Set Description](#data-set-description)
 - [Data Pre-processing](#data-pre-processing)
@@ -20,13 +19,6 @@ This repository hosts the code and resources for a research project focusing on 
 - [Model Training](#model-training)
 - [Model Testing](#model-testing)
 - [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The research paper this project is based on addresses the need for improved control mechanisms in neuroprostheses for individuals experiencing limb amputation. The paper introduces a pioneering method that utilizes deep learning models for classifying EEG signals generated during motor imagery tasks, aiming to enhance the control of an exoskeletal arm.
 
 ## Methodology
 
