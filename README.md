@@ -76,7 +76,7 @@ Contributions to this project are welcome! Please refer to the CONTRIBUTING.md f
 
   
 ## 😇: Other Contributors
-- [Navtegh Singh Gill]([https://github.com/Navtegh](url))
+- [Navtegh Singh Gill](https://github.com/Navtegh)
 - Inayat
 - Sahil Rohilla
 - Himank Tuteja
