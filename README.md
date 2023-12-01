@@ -74,5 +74,11 @@ Contributions to this project are welcome! Please refer to the CONTRIBUTING.md f
 - [MNE](https://mne.tools/stable/index.html)
 - [EEGNet](https://eegnet.org/index.html)
 
+  
+## 😇: Other Contributors
+- [Navtegh Singh Gill]([https://github.com/Navtegh](url))
+- Inayat
+- Sahil Rohilla
+- Himank Tuteja
 
 
